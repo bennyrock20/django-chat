@@ -1,0 +1,7 @@
+django
+channels
+channels_redis
+pytest
+pytest-django
+pytest-asyncio
+daphne
